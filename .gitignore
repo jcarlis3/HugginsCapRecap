@@ -19,6 +19,7 @@
 /*.Rcheck/
 
 *.Rproj
+README.html
 
 # RStudio files
 .Rproj.user/
